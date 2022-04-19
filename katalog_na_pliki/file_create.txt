@@ -1,1 +1,0 @@
-action FILE_CREATE executed on /Users/krzysztofragan/Desktop/vscode/python-kurs/katalog_na_pliki/dummyfile.txt on 2022-04-05 17:15:23 action FILE_CREATE executed on /Users/krzysztofragan/Desktop/vscode/python-kurs/katalog_na_pliki/dummyfile.txt on 2022-04-05 17:17:19 
