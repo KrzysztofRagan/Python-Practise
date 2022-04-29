@@ -49,7 +49,7 @@ class Cake:
       return self.__text
  
     @Text.setter
-    def __set_text(self, new_text):
+    def Text(self, new_text):
         if self.kind == 'cake':
             self.__text = new_text
         else:
@@ -72,5 +72,6 @@ for c in Cake.bakery_offer:
 cake01.Text = 'Happy birthday!'
 cake02.Text = '18'
  
+print(50 * '-')
 for c in Cake.bakery_offer:
     c.show_info()
