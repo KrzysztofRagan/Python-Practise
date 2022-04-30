@@ -4,6 +4,7 @@ class NoDuplicates:
   def __init__(self):
     self.list = []
 
+# PO ZDEFINIOWANIU FUNKCJI CALL MOZNA WYWOLYWAC INSTANCJE, KTORE WCZESNIEJ BYLY UNCALLABLE 
   def __call__(self, new_items):
     for item in new_items:
       if item not in self.list:
